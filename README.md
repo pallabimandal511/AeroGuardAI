@@ -10,7 +10,7 @@ AeroGuard AI demonstrates how engine sensor data can be monitored and analysed i
 
 **AeroGuard AI** is designed to simplify aero piston engine health monitoring through a virtual engine representation and an interactive monitoring dashboard.
 
-The system demonstrates how crucial engine parameters can be continuously analysed to identify potential operating abnormalities before in-flight failure occurs.
+The system demonstrates how important engine parameters can be analysed to identify potential operating abnormalities before in-flight failure occurs.
 
 ### Users can:
 * **Monitor** engine temperature, oil pressure, vibration and RPM in real time.
@@ -64,7 +64,7 @@ The system demonstrates how crucial engine parameters can be continuously analys
 ## 🗂️ Project Structure
 
 ```text
-AeroGuard-AI/
+AeroGuardAI/
 │
 ├── app.py                  # Main Streamlit application with interactive command dashboard & all 12 modules
 ├── digital_twin.py         # Analytical Digital Twin models & component health matrix
@@ -166,8 +166,8 @@ Condition brackets:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/BhanuGowda05/AeroGuard-AI.git
-   cd AeroGuard-AI
+   git clone https://github.com/pallabimandal511/AeroGuardAI.git
+   cd AeroGuardAI
    ```
 
 2. **Create a virtual environment**
@@ -242,10 +242,7 @@ The application will open automatically at:
 ## 👩‍💻 Developed By
 
 **Team AeroGuard AI**
-* **Bhanushree G**
 * **Pallabi Mandal**
-* **Shaik Hazibee**
-* **Pavani**
 
 * **Department:** Computer Science and Engineering – Data Science  
 * **Institution:** Nagarjuna College of Engineering and Technology (NCET)
