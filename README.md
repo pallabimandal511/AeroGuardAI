@@ -241,11 +241,10 @@ The application will open automatically at:
 
 ## 👩‍💻 Developed By
 
-**Team AeroGuard AI**
-* **Pallabi Mandal**
+**Pallabi Mandal**
 
-* **Department:** Computer Science and Engineering – Data Science  
-* **Institution:** Nagarjuna College of Engineering and Technology (NCET)
+**Department:** Computer Science and Engineering – Data Science  
+**Institution:** Nagarjuna College of Engineering and Technology (NCET)
 
 ---
 
